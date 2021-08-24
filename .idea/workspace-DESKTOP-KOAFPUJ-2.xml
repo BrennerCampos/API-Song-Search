@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83dffcc9-ab05-4a4f-9b78-0af90b2ee9e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hwLSTft3ErsmxPSzqouRTz43FP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build COMP510_Project2_BrennerCampos">
+    <configuration name="go build API.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="COMP510_Project2_BrennerCampos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/API.go" />
+      <package value="COMP510_Project2_BrennerCampos" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build COMP510_Project2_BrennerCampos" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="COMP510_Project2_BrennerCampos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="COMP510_Project2_BrennerCampos" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Project2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="COMP510_Project2_BrennerCampos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Project2.go" />
+      <package value="COMP510_Project2_BrennerCampos" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test COMP510_Project2_BrennerCampos" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="COMP510_Project2_BrennerCampos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="COMP510_Project2_BrennerCampos" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gobench COMP510_Project2_BrennerCampos" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="COMP510_Project2_BrennerCampos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gobench" />
+      <kind value="DIRECTORY" />
+      <package value="COMP510_Project2_BrennerCampos" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build COMP510_Project2_BrennerCampos" />
+        <item itemvalue="Go Test.gobench COMP510_Project2_BrennerCampos" />
+        <item itemvalue="Go Test.go test COMP510_Project2_BrennerCampos" />
+        <item itemvalue="Go Build.go build API.go" />
+        <item itemvalue="Go Build.go build Project2.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="170" key="#GOPATH" timestamp="1601316444432">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="640" y="170" key="#GOPATH/0.23.1680.963@0.23.1680.963" timestamp="1601316444432" />
+    <state x="640" y="442" key="#GOROOT" timestamp="1601314588583">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="640" y="442" key="#GOROOT/0.23.1680.965@0.23.1680.965" timestamp="1601314588583" />
+    <state x="1410" y="460" key="FileChooserDialogImpl" timestamp="1601328298543">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="1410" y="460" key="FileChooserDialogImpl/0.0.5120.1400@0.0.5120.1400" timestamp="1601328298543" />
+    <state width="1519" height="456" key="GridCell.Tab.0.bottom" timestamp="1601348967003">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state width="1519" height="456" key="GridCell.Tab.0.bottom/0.0.5120.1400@0.0.5120.1400" timestamp="1601348967003" />
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1601316404895" />
+    <state width="1519" height="456" key="GridCell.Tab.0.center" timestamp="1601348967003">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state width="1519" height="456" key="GridCell.Tab.0.center/0.0.5120.1400@0.0.5120.1400" timestamp="1601348967003" />
+    <state width="1358" height="246" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1601316404894" />
+    <state width="1519" height="456" key="GridCell.Tab.0.left" timestamp="1601348967003">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state width="1519" height="456" key="GridCell.Tab.0.left/0.0.5120.1400@0.0.5120.1400" timestamp="1601348967003" />
+    <state width="1358" height="246" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1601316404893" />
+    <state width="1519" height="456" key="GridCell.Tab.0.right" timestamp="1601348967003">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state width="1519" height="456" key="GridCell.Tab.0.right/0.0.5120.1400@0.0.5120.1400" timestamp="1601348967003" />
+    <state width="1358" height="246" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1601316404895" />
+    <state width="1519" height="456" key="GridCell.Tab.1.bottom" timestamp="1601348966929">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state width="1519" height="456" key="GridCell.Tab.1.bottom/0.0.5120.1400@0.0.5120.1400" timestamp="1601348966929" />
+    <state width="1519" height="456" key="GridCell.Tab.1.center" timestamp="1601348966929">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state width="1519" height="456" key="GridCell.Tab.1.center/0.0.5120.1400@0.0.5120.1400" timestamp="1601348966929" />
+    <state width="1519" height="456" key="GridCell.Tab.1.left" timestamp="1601348966929">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state width="1519" height="456" key="GridCell.Tab.1.left/0.0.5120.1400@0.0.5120.1400" timestamp="1601348966929" />
+    <state width="1519" height="456" key="GridCell.Tab.1.right" timestamp="1601348966929">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state width="1519" height="456" key="GridCell.Tab.1.right/0.0.5120.1400@0.0.5120.1400" timestamp="1601348966929" />
+    <state x="341" y="143" key="SettingsEditor" timestamp="1601318068614">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="341" y="143" key="SettingsEditor/0.23.1680.963@0.23.1680.963" timestamp="1601318068614" />
+    <state width="789" height="681" key="XDebugger.FullValuePopup" timestamp="1601342245168">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state width="789" height="681" key="XDebugger.FullValuePopup/0.0.5120.1400@0.0.5120.1400" timestamp="1601342245168" />
+    <state x="830" y="123" width="598" height="822" key="find.popup" timestamp="1601316493680">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="830" y="123" width="598" height="822" key="find.popup/0.23.1680.963@0.23.1680.963" timestamp="1601316493680" />
+  </component>
+</project>
